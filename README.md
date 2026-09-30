@@ -1,4 +1,5 @@
-POLI-LM Atlas
+# POLI-LM Atlas
+
 A multilingual computational study of political language, semantic emphasis, and model-detected affective signals across six political leaders.
 Status: analytical core complete / near-complete. Remaining work is final figure generation, repository cleanup, reusable code consolidation, and optional chatbot integration.
 
